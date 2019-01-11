@@ -2,7 +2,7 @@
 
 > 微信小程序上传文件到oss需要调用oss __JavaScript客户端签名直传__
 
-> [JavaScript客户端签名直传](https://helpcdn.aliyun.com/document_detail/31925.html?spm=a2c4g.11186623.6.1123.42e2e1ebFPyqG2)
+> [JavaScript客户端签名直传](https://helpcdn.aliyun.com/document_detail/31925.html?spm=a2c4g.11186623.6.1123.42e2e1ebFPyqG2) [小程序上传示例](https://help.aliyun.com/document_detail/92883.html?spm=a2c4g.11186623.6.1136.530918c9BdI1dP)
 
 #### 踩坑
 1. oss文档定义的修改上传文件路径的文档是错误的，应该修改key值而不是Filename
